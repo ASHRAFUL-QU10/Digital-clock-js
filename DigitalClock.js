@@ -24,3 +24,4 @@ function updateClock() {
 
 // Update the clock every 1 second
 setInterval(updateClock, 1000);
+//coded by Muhammad ashraful jan 2023
