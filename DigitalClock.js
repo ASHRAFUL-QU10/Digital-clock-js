@@ -1,9 +1,7 @@
-// Get the element where the clock will be displayed
 const clockElement = document.getElementById('clock');
 
-// Function to update the clock
 function updateClock() {
-  // Get the current time
+  
   let time = new Date();
 
   // Extract the hours, minutes, and seconds from the time
@@ -24,4 +22,19 @@ function updateClock() {
 
 // Update the clock every 1 second
 setInterval(updateClock, 1000);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //coded by Muhammad ashraful jan 2023
