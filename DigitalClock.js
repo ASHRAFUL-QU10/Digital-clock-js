@@ -19,7 +19,6 @@ function updateClock() {
   // Update the clock
   clockElement.innerHTML = clockString;
 }
-
 // Update the clock every 1 second
 setInterval(updateClock, 1000);
 
